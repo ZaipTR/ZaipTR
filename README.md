@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZaipTR.
 - 👀 I’m a curious high school student interested in CS in general.
-- 🌱 What I’m currently learning : Python, the basics of computer science.
+- 🌱 What I’m currently learning : Python.
 - 📫 You can't contact me for the moment.
 
 <!---
